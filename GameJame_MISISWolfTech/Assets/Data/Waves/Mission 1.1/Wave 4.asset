@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194eda3e3b736ec438ac476f610c0664, type: 3}
+  m_Name: Wave 4
+  m_EditorClassIdentifier: 
+  BOSS: {fileID: 0}
+  flyRangeData: {fileID: 11400000, guid: 3f1796c15d83c0049be51e9f6d928f74, type: 2}
+  rangeCripData: {fileID: 11400000, guid: 47a8fe1ed4df75c409079d5d9edfe265, type: 2}
+  meeleCripData: {fileID: 11400000, guid: 1f554c5fc466def4ab6edd33f7d19b7a, type: 2}
+  overAllCrip: 3
+  spawnDelay: 0
+  coordinateA: 0000000000000000
+  countMeeleCripsA: 0
+  countRangeCripsA: 0
+  countFlyRangeCripsA: 0
+  countBOSSA: 0
+  coordinateB: 0100000000000000
+  countMeeleCripsB: 0
+  countRangeCripsB: 0
+  countFlyRangeCripsB: 0
+  countBOSSB: 0
+  coordinateC: 0200000000000000
+  countMeeleCripsC: 0
+  countRangeCripsC: 0
+  countFlyRangeCripsC: 1
+  countBOSSC: 0
+  coordinateD: 0300000000000000
+  countMeeleCripsD: 0
+  countRangeCripsD: 0
+  countFlyRangeCripsD: 0
+  countBOSSD: 0
+  coordinateE: 0400000000000000
+  countMeeleCripsE: 0
+  countRangeCripsE: 1
+  countFlyRangeCripsE: 0
+  countBOSSE: 0
+  coordinateF: 0500000000000000
+  countMeeleCripsF: 0
+  countRangeCripsF: 0
+  countFlyRangeCripsF: 0
+  countBOSSF: 0
+  coordinateG: 0600000000000000
+  countMeeleCripsG: 0
+  countRangeCripsG: 0
+  countFlyRangeCripsG: 0
+  countBOSSG: 0
+  coordinateH: 0700000000000000
+  countMeeleCripsH: 0
+  countRangeCripsH: 1
+  countFlyRangeCripsH: 0
+  countBOSSH: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a802b565c4b0434b8295d17b3b9abcf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grow: {fileID: 2104857301440867727, guid: 96b5cca0bbee79b499544f334e18b15e, type: 3}
+  - row: {instanceID: 0}
+  - wall: {instanceID: 0}
+  - core: {instanceID: 0}
+  - mapData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
